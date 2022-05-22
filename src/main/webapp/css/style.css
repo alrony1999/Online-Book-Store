@@ -1,0 +1,36 @@
+@charset "ISO-8859-1";
+.body{
+	background:gray; 	
+}
+.custom-bg{
+    background: #673ab7!important;
+}
+.admin.card{
+
+    border:1px solid #673ab7;
+
+
+}
+.admin.card:hover{
+
+    background:#e2e2e2; 
+    cursor:pointer;
+
+}
+.list-group-item.active{
+    background: #673ab7!important;
+    border-color: #673ab7!important;
+}
+
+.book-card:hover{
+     background:#e2e2e2; 
+    cursor:pointer;
+}
+.cat-card:hover {
+	background: #e2e2e2;
+	cursor: pointer;
+}
+.card-columns {
+  column-count: 5;
+}
+
